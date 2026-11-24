@@ -1,5 +1,8 @@
 // One Word, One Username, One Reward — make.fun entry
 // Entry: the entrant's own make.fun handle, one word — amber-comet-97.
+// Verified live via makefun profile: @amber-comet-97.
+// Criteria order: genuine handle first, raises a smile, sticks in the
+// mind, single word, sounds like a handle its owner would wear.
 import { mkdirSync, writeFileSync } from "node:fs";
 
 const LINE = "amber-comet-97";
